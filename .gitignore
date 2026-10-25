@@ -1,0 +1,6 @@
+build*/
+.ghreport-cache/
+__pycache__/
+*.pyc
+.pytest_cache/
+service/ghreport
