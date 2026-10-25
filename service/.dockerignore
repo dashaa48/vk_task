@@ -1,0 +1,7 @@
+.git
+.gitignore
+.ghreport-cache
+*.md
+*_test.go
+*.jsonl
+report*.json
